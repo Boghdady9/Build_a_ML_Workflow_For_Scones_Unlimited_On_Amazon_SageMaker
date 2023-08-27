@@ -14,17 +14,6 @@
  * Step 5: Optional challenge
  * Step 6: Cleanup cloud resources
  
- # Building a State Machine via AWS Step Functions:
- 
- * Execution Flow of the Step Function
-![stepfunction_execution.png](images/stepfunction_execution.png)
-
-* Step Function Graph (that met inference threshold)
-![stepfunction_imageclassification.png](images/stepfunction_imageclassification.png)
-
-* Step Function Graph (that not met inference threshold)
-![inference_not_met_threshold.png](images/inference_not_met_threshold.png)
-
  
 
  
